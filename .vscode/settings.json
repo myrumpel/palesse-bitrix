@@ -11,7 +11,6 @@
 		"**/.idea": true,
 		"**/.vscode": true,
 		"**/.next": true,
-		"**/bitrix": true
 	},
 	"explorerExclude.backup": {}
 }
