@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/local/templates/palesse/components/bitrix/news.list/IndexAboutNumbers/style.css" => "1687372114150",]; ?>

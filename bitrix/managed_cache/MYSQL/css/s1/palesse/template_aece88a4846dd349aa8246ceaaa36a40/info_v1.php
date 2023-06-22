@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/local/templates/palesse/assets/css/style.css" => "168741872495112",]; ?>

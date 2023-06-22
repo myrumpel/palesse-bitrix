@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/local/templates/palesse/assets/js/app.min.js" => "1687345382217585",]; ?>

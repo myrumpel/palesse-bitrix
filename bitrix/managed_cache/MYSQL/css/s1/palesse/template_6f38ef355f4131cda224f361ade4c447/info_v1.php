@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/local/templates/palesse/assets/css/style.min.css" => "168734538380332","/bitrix/components/bitrix/menu/templates/.default/style.css" => "1687346570490",]; ?>

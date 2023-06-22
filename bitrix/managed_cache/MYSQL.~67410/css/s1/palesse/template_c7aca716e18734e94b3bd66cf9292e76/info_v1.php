@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/local/templates/palesse/assets/css/style.min.css" => "168734538380332",]; ?>
