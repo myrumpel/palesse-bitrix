@@ -1,34 +1,63 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"] . "/bitrix/header.php");
-$APPLICATION->SetTitle("Новый раздел");
-?><!-- <section class="feedback">
-<div class="feedback-container container">
-	<div class="feedback-container_target">
-	</div>
-</div>
-<div class="container-fluid">
-	<div class="feedback__bg">
-		<div class="container">
-			<div class="feedback__inner">
-				<div class="feedback__content">
-					<form class="feedback__form" id="feedback-form">
-						<h4 class="feedback__form-title form-item">Остались вопросы?
-						<p class="feedback__accent-color form-item">
-							 Мы свяжемся с Вами!
-						</p>
- </h4>
- <label for="feedback-name" class="feedback-label form-item"> <input class="feedback__input feedback__name input-field-index" maxlength="40" id="feedback-name" type="text" name="Name"> <span class="label-span">Имя</span> </label> <label for="feedback-phone" class="feedback-label form-item"> <input class="feedback__input feedback__phone input-field-index" id="feedback-phone" type="tel" name="Phone" maxlength="20"> <span class="label-span"> Телефон</span> </label> <label for="feedback-topic" class="feedback-label form-item"> <input class="feedback__input feedback__name input-field-index" maxlength="80" id="feedback-topic" type="text" name="Topic"> <span class="label-span">Тема сообщения</span> </label> <button class="red-button-link feedback__btn form-item" type="submit">Отправить заявку</button>
-						<p class="feedback__form-privacy form-item">
-							 Отправляя заявку Вы принимаете условия <a class="feedback__form-privacy-link form-item" href="/privacy.php">Политики конфиденциальности</a>
-						</p>
-					</form>
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
- </section> <br> --> <br>
-<br>
-
-<br>
+$APPLICATION->SetTitle("Тестик");
+?>
+<!-- <? $APPLICATION->IncludeComponent(
+	"bitrix:news.list",
+	"aboutNews",
+	array(
+		"ACTIVE_DATE_FORMAT" => "d.m.Y",
+		"ADD_SECTIONS_CHAIN" => "N",
+		"AJAX_MODE" => "N",
+		"AJAX_OPTION_ADDITIONAL" => "",
+		"AJAX_OPTION_HISTORY" => "N",
+		"AJAX_OPTION_JUMP" => "N",
+		"AJAX_OPTION_STYLE" => "Y",
+		"CACHE_FILTER" => "N",
+		"CACHE_GROUPS" => "N",
+		"CACHE_TIME" => "36000000",
+		"CACHE_TYPE" => "A",
+		"CHECK_DATES" => "Y",
+		"DETAIL_URL" => "/news/detail/#ELEMENT_CODE#/",
+		"DISPLAY_BOTTOM_PAGER" => "N",
+		"DISPLAY_DATE" => "Y",
+		"DISPLAY_NAME" => "Y",
+		"DISPLAY_PICTURE" => "Y",
+		"DISPLAY_PREVIEW_TEXT" => "Y",
+		"DISPLAY_TOP_PAGER" => "N",
+		"FIELD_CODE" => array("NAME", "PREVIEW_TEXT", "PREVIEW_PICTURE", "DETAIL_TEXT", "DETAIL_PICTURE", ""),
+		"FILTER_NAME" => "",
+		"HIDE_LINK_WHEN_NO_DETAIL" => "N",
+		"IBLOCK_ID" => "9",
+		"IBLOCK_TYPE" => "aboutNews",
+		"INCLUDE_IBLOCK_INTO_CHAIN" => "N",
+		"INCLUDE_SUBSECTIONS" => "N",
+		"MESSAGE_404" => "",
+		"NEWS_COUNT" => "20",
+		"PAGER_BASE_LINK_ENABLE" => "N",
+		"PAGER_DESC_NUMBERING" => "N",
+		"PAGER_DESC_NUMBERING_CACHE_TIME" => "36000",
+		"PAGER_SHOW_ALL" => "N",
+		"PAGER_SHOW_ALWAYS" => "N",
+		"PAGER_TEMPLATE" => ".default",
+		"PAGER_TITLE" => "Новости",
+		"PARENT_SECTION" => "",
+		"PARENT_SECTION_CODE" => "",
+		"PREVIEW_TRUNCATE_LEN" => "",
+		"PROPERTY_CODE" => array("aboutNewsDetailVideo", "aboutNewsDetailPictures", ""),
+		"SET_BROWSER_TITLE" => "Y",
+		"SET_LAST_MODIFIED" => "N",
+		"SET_META_DESCRIPTION" => "N",
+		"SET_META_KEYWORDS" => "N",
+		"SET_STATUS_404" => "N",
+		"SET_TITLE" => "Y",
+		"SHOW_404" => "N",
+		"SORT_BY1" => "ACTIVE_FROM",
+		"SORT_BY2" => "SORT",
+		"SORT_ORDER1" => "DESC",
+		"SORT_ORDER2" => "ASC",
+		"STRICT_SECTION_CHECK" => "N"
+	)
+); ?> -->
+fsdfdfssdfsdfdsffdssdfdfsfdsfsdfsd
 <? require($_SERVER["DOCUMENT_ROOT"] . "/bitrix/footer.php"); ?>
