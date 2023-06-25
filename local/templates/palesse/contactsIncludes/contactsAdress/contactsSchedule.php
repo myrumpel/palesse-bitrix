@@ -1,0 +1,1 @@
+<p class='map__main-schedule'> <span> Пн-Пт:</span> с 8:00 до 17:00</p>
