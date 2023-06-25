@@ -2,42 +2,42 @@
 $aMenuLinks = Array(
 	Array(
 		"О компании", 
-		"/about//about.php", 
+		"/about/main.php", 
 		Array(), 
 		Array(), 
 		"" 
 	),
 	Array(
 		"Каталог", 
-		"/catalog/", 
+		"/catalog/main.php", 
 		Array(), 
 		Array(), 
 		"" 
 	),
 	Array(
 		"Сервис", 
-		"/service/", 
+		"/service/main.php", 
 		Array(), 
 		Array(), 
 		"" 
 	),
 	Array(
 		"Запчасти", 
-		"/spare-parts/", 
+		"/spare-parts/main.php", 
 		Array(), 
 		Array(), 
 		"" 
 	),
 	Array(
 		"Способы приобретения", 
-		"/ways/", 
+		"/ways/main.php", 
 		Array(), 
 		Array(), 
 		"" 
 	),
 	Array(
 		"Контакты", 
-		"/contacts/", 
+		"/contacts/main.php", 
 		Array(), 
 		Array(), 
 		"" 
