@@ -1,0 +1,1 @@
+<a href="tel:+78007707010" class="footer__number">+7 (800) 770 70–10</a>

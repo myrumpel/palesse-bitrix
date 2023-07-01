@@ -1,11 +1,10 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"] . "/bitrix/header.php");
 $APPLICATION->SetTitle("Каталог");
-?>
-<? $APPLICATION->IncludeComponent(
+?><?$APPLICATION->IncludeComponent(
 	"bitrix:news",
 	"catalogNews",
-	array(
+	Array(
 		"ADD_ELEMENT_CHAIN" => "N",
 		"ADD_SECTIONS_CHAIN" => "Y",
 		"AJAX_MODE" => "N",
@@ -22,11 +21,11 @@ $APPLICATION->SetTitle("Каталог");
 		"DETAIL_ACTIVE_DATE_FORMAT" => "d.m.Y",
 		"DETAIL_DISPLAY_BOTTOM_PAGER" => "N",
 		"DETAIL_DISPLAY_TOP_PAGER" => "N",
-		"DETAIL_FIELD_CODE" => array("NAME", "PREVIEW_TEXT", "PREVIEW_PICTURE", "DETAIL_TEXT", "DETAIL_PICTURE", ""),
+		"DETAIL_FIELD_CODE" => array("NAME","PREVIEW_TEXT","PREVIEW_PICTURE","DETAIL_TEXT","DETAIL_PICTURE",""),
 		"DETAIL_PAGER_SHOW_ALL" => "N",
 		"DETAIL_PAGER_TEMPLATE" => "",
 		"DETAIL_PAGER_TITLE" => "Страница",
-		"DETAIL_PROPERTY_CODE" => array("previewDesc", "catalogDetailYoutubeDescription", "catalogDetailShortDescription", "catalogDetailNameDocuments", "catalogDetailMainDescription", "commlizing", "credit", "catalogPreviewDescription", "rosagrolizing", "cash", "catalogDetailPictureJPG", "catalogDetailPictureWEBP", ""),
+		"DETAIL_PROPERTY_CODE" => array("previewDesc","catalogPreviewDescription","catalogDetailShortDescription","catalogDetailMainDescription","catalogDetailNameDocuments","catalogDetailYoutubeDescription","rosagrolizing","credit","commlizing","cash","catalogDetailPictureJPG","catalogDetailPictureWEBP",""),
 		"DETAIL_SET_CANONICAL_URL" => "N",
 		"DISPLAY_BOTTOM_PAGER" => "N",
 		"DISPLAY_DATE" => "Y",
@@ -39,8 +38,8 @@ $APPLICATION->SetTitle("Каталог");
 		"IBLOCK_TYPE" => "catalogContentBox",
 		"INCLUDE_IBLOCK_INTO_CHAIN" => "Y",
 		"LIST_ACTIVE_DATE_FORMAT" => "d.m.Y",
-		"LIST_FIELD_CODE" => array("NAME", "PREVIEW_TEXT", "PREVIEW_PICTURE", "DETAIL_TEXT", "DETAIL_PICTURE", ""),
-		"LIST_PROPERTY_CODE" => array("previewDesc", "catalogDetailYoutubeDescription", "catalogDetailShortDescription", "catalogDetailNameDocuments", "catalogDetailMainDescription", "commlizing", "credit", "catalogPreviewDescription", "rosagrolizing", "cash", "", "PDF", ""),
+		"LIST_FIELD_CODE" => array("NAME","PREVIEW_TEXT","PREVIEW_PICTURE","DETAIL_TEXT","DETAIL_PICTURE",""),
+		"LIST_PROPERTY_CODE" => array("previewDesc","catalogPreviewDescription","catalogDetailShortDescription","catalogDetailMainDescription","catalogDetailNameDocuments","catalogDetailYoutubeDescription","rosagrolizing","credit","commlizing","cash","rosagrolizingDesc","creditDesc","commlizingDesc","cashDesc","rosagrolizingProps","creditProps","commlizingProps","cashProps","PDF",""),
 		"MESSAGE_404" => "",
 		"META_DESCRIPTION" => "-",
 		"META_KEYWORDS" => "-",
@@ -55,7 +54,7 @@ $APPLICATION->SetTitle("Каталог");
 		"PREVIEW_TRUNCATE_LEN" => "",
 		"SEF_FOLDER" => "/catalog/",
 		"SEF_MODE" => "Y",
-		"SEF_URL_TEMPLATES" => array("detail" => "detail/#ELEMENT_CODE#/", "news" => "", "section" => "#SECTION_CODE#/"),
+		"SEF_URL_TEMPLATES" => Array("detail"=>"detail/#ELEMENT_CODE#/","news"=>"","section"=>"#SECTION_CODE#/"),
 		"SET_LAST_MODIFIED" => "N",
 		"SET_STATUS_404" => "N",
 		"SET_TITLE" => "Y",
@@ -74,5 +73,4 @@ $APPLICATION->SetTitle("Каталог");
 		"USE_SEARCH" => "N",
 		"USE_SHARE" => "N"
 	)
-); ?>
-<? require($_SERVER["DOCUMENT_ROOT"] . "/bitrix/footer.php"); ?>
+);?><? require($_SERVER["DOCUMENT_ROOT"] . "/bitrix/footer.php"); ?>

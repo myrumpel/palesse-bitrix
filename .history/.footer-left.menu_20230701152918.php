@@ -1,0 +1,53 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"О компании", 
+		"/about/main.php", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Каталог", 
+		"/catalog/main.php", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Сервис", 
+		"/service/main.php", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Запчасти", 
+		"/spare-parts/main.php", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Способы приобретения", 
+		"/ways/main.php", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Контакты", 
+		"/contacts/main.php", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Test", 
+		"/test/index.php", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>
