@@ -1,11 +1,11 @@
 <?
 if($INCLUDE_FROM_CACHE!='Y')return false;
-$datecreate = '001688241517';
-$dateexpire = '001690833517';
-$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:1:{s:8:".default";a:13:{s:30:"Таблица/snippet0005.snp";a:9:{s:4:"name";s:15:"snippet0005.snp";s:4:"path";s:14:"Таблица";s:5:"title";s:27:"Строка таблицы";s:5:"thumb";s:0:"";s:4:"code";s:1842:"<tr class="table-massive__info-line">
+$datecreate = '001688402246';
+$dateexpire = '001690994246';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:1:{s:8:".default";a:13:{s:30:"Таблица/snippet0005.snp";a:9:{s:4:"name";s:15:"snippet0005.snp";s:4:"path";s:14:"Таблица";s:5:"title";s:27:"Строка таблицы";s:5:"thumb";s:0:"";s:4:"code";s:3942:"<tr class="table-massive__info-line">
 		<td colspan="1" class="table-massive__info-td">
 			
-				Мощность двигателя, кВт / л.с.
+				Мощность 
 			
 		</td>
 		<td colspan="1" class="table-massive__info-td">
@@ -15,61 +15,170 @@ $ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:1:{s:8:".default";a:13:{s
 	<tr class="table-massive__info-line">
 		<td colspan="1" class="table-massive__info-td">
 			
-				Мощность двигателя, кВт / л.с.
+				Мощность 
+			
 		</td>
 		<td colspan="1" class="table-massive__info-td">
 			
 100		</td>
-	</tr>
-	<tr class="table-massive__info-line">
+	</tr><tr class="table-massive__info-line">
 		<td colspan="1" class="table-massive__info-td">
 			
-				Мощность двигателя, кВт / л.с.
+				Мощность 
+			
 		</td>
 		<td colspan="1" class="table-massive__info-td">
 			
 100		</td>
-	</tr>
-	<tr class="table-massive__info-line">
+	</tr><tr class="table-massive__info-line">
 		<td colspan="1" class="table-massive__info-td">
 			
-				Мощность двигателя, кВт / л.с.
+				Мощность 
+			
 		</td>
 		<td colspan="1" class="table-massive__info-td">
 			
 100		</td>
-	</tr>
-	<tr class="table-massive__info-line">
+	</tr><tr class="table-massive__info-line">
 		<td colspan="1" class="table-massive__info-td">
 			
-				Мощность двигателя, кВт / л.с.
+				Мощность 
+			
 		</td>
 		<td colspan="1" class="table-massive__info-td">
 			
 100		</td>
-	</tr>
-	<tr class="table-massive__info-line">
+	</tr><tr class="table-massive__info-line">
 		<td colspan="1" class="table-massive__info-td">
 			
-				Мощность двигателя, кВт / л.с.
+				Мощность 
+			
 		</td>
 		<td colspan="1" class="table-massive__info-td">
 			
 100		</td>
-	</tr>
-	<tr class="table-massive__info-line">
+	</tr><tr class="table-massive__info-line">
 		<td colspan="1" class="table-massive__info-td">
 			
-				Мощность двигателя, кВт / л.с.
+				Мощность 
+			
 		</td>
 		<td colspan="1" class="table-massive__info-td">
 			
 100		</td>
-	</tr>
-	<tr class="table-massive__info-line">
+	</tr><tr class="table-massive__info-line">
 		<td colspan="1" class="table-massive__info-td">
 			
-				Мощность двигателя, кВт / л.с.
+				Мощность 
+			
+		</td>
+		<td colspan="1" class="table-massive__info-td">
+			
+100		</td>
+	</tr><tr class="table-massive__info-line">
+		<td colspan="1" class="table-massive__info-td">
+			
+				Мощность 
+			
+		</td>
+		<td colspan="1" class="table-massive__info-td">
+			
+100		</td>
+	</tr><tr class="table-massive__info-line">
+		<td colspan="1" class="table-massive__info-td">
+			
+				Мощность 
+			
+		</td>
+		<td colspan="1" class="table-massive__info-td">
+			
+100		</td>
+	</tr><tr class="table-massive__info-line">
+		<td colspan="1" class="table-massive__info-td">
+			
+				Мощность 
+			
+		</td>
+		<td colspan="1" class="table-massive__info-td">
+			
+100		</td>
+	</tr><tr class="table-massive__info-line">
+		<td colspan="1" class="table-massive__info-td">
+			
+				Мощность 
+			
+		</td>
+		<td colspan="1" class="table-massive__info-td">
+			
+100		</td>
+	</tr><tr class="table-massive__info-line">
+		<td colspan="1" class="table-massive__info-td">
+			
+				Мощность 
+			
+		</td>
+		<td colspan="1" class="table-massive__info-td">
+			
+100		</td>
+	</tr><tr class="table-massive__info-line">
+		<td colspan="1" class="table-massive__info-td">
+			
+				Мощность 
+			
+		</td>
+		<td colspan="1" class="table-massive__info-td">
+			
+100		</td>
+	</tr><tr class="table-massive__info-line">
+		<td colspan="1" class="table-massive__info-td">
+			
+				Мощность 
+			
+		</td>
+		<td colspan="1" class="table-massive__info-td">
+			
+100		</td>
+	</tr><tr class="table-massive__info-line">
+		<td colspan="1" class="table-massive__info-td">
+			
+				Мощность 
+			
+		</td>
+		<td colspan="1" class="table-massive__info-td">
+			
+100		</td>
+	</tr><tr class="table-massive__info-line">
+		<td colspan="1" class="table-massive__info-td">
+			
+				Мощность 
+			
+		</td>
+		<td colspan="1" class="table-massive__info-td">
+			
+100		</td>
+	</tr><tr class="table-massive__info-line">
+		<td colspan="1" class="table-massive__info-td">
+			
+				Мощность 
+			
+		</td>
+		<td colspan="1" class="table-massive__info-td">
+			
+100		</td>
+	</tr><tr class="table-massive__info-line">
+		<td colspan="1" class="table-massive__info-td">
+			
+				Мощность 
+			
+		</td>
+		<td colspan="1" class="table-massive__info-td">
+			
+100		</td>
+	</tr><tr class="table-massive__info-line">
+		<td colspan="1" class="table-massive__info-td">
+			
+				Мощность 
+			
 		</td>
 		<td colspan="1" class="table-massive__info-td">
 			
